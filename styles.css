@@ -1,0 +1,29 @@
+ header{
+   border: 5px solid gray;
+   text-align: center;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   letter-spacing: 3px;
+   font-family: "Lucida Console", "Courier New", monospace;
+   background-color:#fb5c81;
+   color: #7a1e34;*
+   font-size: 12px;
+}
+
+html{
+background-color: #3c3c44;
+}
+
+P {
+   font-family: "Lucida Console", "Courier New", monospace;
+   text-align: center;
+   font-size: 34px;
+
+
+}
+img{
+    display: block;
+  margin-left: 20px;
+  margin-right: auto;
+  
+}
