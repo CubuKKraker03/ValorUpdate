@@ -1,0 +1,5 @@
+<div class="splittxt" style="font-family: 'Courier New', Courier, monospace; font-size: 20px; padding-top: 20px; text-align: justify; color: #c26167 " >
+        Cette mise à jour de Split a pour but d'améliorer les options des attaquants sur la carte,
+         de réduire les checks 50/50 et la profondeur de certains coins, et d'ouvrir des zones spécifiques sur 
+         la carte en augmentant la largeur de certains goulets d'étranglement.
+    </div>

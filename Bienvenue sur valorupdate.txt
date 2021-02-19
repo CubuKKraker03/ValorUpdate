@@ -1,0 +1,4 @@
+ <img src="IMG2.png" alt="" width="20" height="20"  > 
+       Bienvenue sur ValorUpdate 
+    <img src="IMG2.png" alt="" width="20" height="20" > 
+    
